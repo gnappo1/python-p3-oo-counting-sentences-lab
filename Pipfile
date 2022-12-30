@@ -38,4 +38,4 @@ wcwidth = "0.2.5"
 [dev-packages]
 
 [requires]
-python_version = "3.8.13"
+python_version = "3.11.0"
